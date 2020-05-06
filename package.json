@@ -1,0 +1,22 @@
+{
+  "name": "boomer-dinky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolant108/Boomer-Dinky.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nolant108/Boomer-Dinky/issues"
+  },
+  "homepage": "https://github.com/nolant108/Boomer-Dinky#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
