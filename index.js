@@ -11,6 +11,6 @@ bot.on('ready', () =>{
 bot.on('message', msg=>{
     if(msg.content === 'Ok Boomer'){
 
-        msg.reply('Hey, This is Boomer, your the boomer, not me!');
+        msg.reply("Hey, This is Boomer, you" + "'" +"re the boomer, not me!");
     }
     })
