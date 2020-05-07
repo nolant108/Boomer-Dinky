@@ -13,4 +13,9 @@ bot.on('message', msg=>{
 
         msg.reply("Hey, This is Boomer, you" + "'" +"re the boomer, not me!");
     }
+
+    if(msg.content === 'ok boomer'){
+
+        msg.reply("Hey, This is Boomer, you" + "'" +"re the boomer, not me!");
+    }
     })
