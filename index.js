@@ -18,4 +18,10 @@ bot.on('message', msg=>{
 
         msg.reply("Hey, This is Boomer, you" + "'" +"re the boomer, not me!");
     }
+
+    if(msg.content === '!staff!'){
+
+        msg.reply("Hey, You are the best at your job, keep doing what you are doing! :)");
+    }
+
     })
